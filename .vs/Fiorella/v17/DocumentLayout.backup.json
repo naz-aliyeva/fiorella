@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\ca r221.14\\source\\repos\\Fiorella\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4AAF5FB6-7A6F-44DD-AA2E-B53BAA392833}|Fiorella\\Fiorella.csproj|c:\\users\\ca r221.14\\source\\repos\\fiorella\\fiorella\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AAF5FB6-7A6F-44DD-AA2E-B53BAA392833}|Fiorella\\Fiorella.csproj|solutionrelative:fiorella\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAF5FB6-7A6F-44DD-AA2E-B53BAA392833}|Fiorella\\Fiorella.csproj|c:\\users\\ca r221.14\\source\\repos\\fiorella\\fiorella\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AAF5FB6-7A6F-44DD-AA2E-B53BAA392833}|Fiorella\\Fiorella.csproj|solutionrelative:fiorella\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAF5FB6-7A6F-44DD-AA2E-B53BAA392833}|Fiorella\\Fiorella.csproj|c:\\users\\ca r221.14\\source\\repos\\fiorella\\fiorella\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AAF5FB6-7A6F-44DD-AA2E-B53BAA392833}|Fiorella\\Fiorella.csproj|solutionrelative:fiorella\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAF5FB6-7A6F-44DD-AA2E-B53BAA392833}|Fiorella\\Fiorella.csproj|c:\\users\\ca r221.14\\source\\repos\\fiorella\\fiorella\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AAF5FB6-7A6F-44DD-AA2E-B53BAA392833}|Fiorella\\Fiorella.csproj|solutionrelative:fiorella\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4AAF5FB6-7A6F-44DD-AA2E-B53BAA392833}|Fiorella\\Fiorella.csproj|c:\\users\\ca r221.14\\source\\repos\\fiorella\\fiorella\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4AAF5FB6-7A6F-44DD-AA2E-B53BAA392833}|Fiorella\\Fiorella.csproj|solutionrelative:fiorella\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AAF5FB6-7A6F-44DD-AA2E-B53BAA392833}|Fiorella\\Fiorella.csproj|c:\\users\\ca r221.14\\source\\repos\\fiorella\\fiorella\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AAF5FB6-7A6F-44DD-AA2E-B53BAA392833}|Fiorella\\Fiorella.csproj|solutionrelative:fiorella\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AAF5FB6-7A6F-44DD-AA2E-B53BAA392833}|Fiorella\\Fiorella.csproj|c:\\users\\ca r221.14\\source\\repos\\fiorella\\fiorella\\models\\flowerslider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AAF5FB6-7A6F-44DD-AA2E-B53BAA392833}|Fiorella\\Fiorella.csproj|solutionrelative:fiorella\\models\\flowerslider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4AAF5FB6-7A6F-44DD-AA2E-B53BAA392833}|Fiorella\\Fiorella.csproj|c:\\users\\ca r221.14\\source\\repos\\fiorella\\fiorella\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4AAF5FB6-7A6F-44DD-AA2E-B53BAA392833}|Fiorella\\Fiorella.csproj|solutionrelative:fiorella\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AAF5FB6-7A6F-44DD-AA2E-B53BAA392833}|Fiorella\\Fiorella.csproj|c:\\users\\ca r221.14\\source\\repos\\fiorella\\fiorella\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4AAF5FB6-7A6F-44DD-AA2E-B53BAA392833}|Fiorella\\Fiorella.csproj|solutionrelative:fiorella\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4AAF5FB6-7A6F-44DD-AA2E-B53BAA392833}|Fiorella\\Fiorella.csproj|c:\\users\\ca r221.14\\source\\repos\\fiorella\\fiorella\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -31,8 +35,24 @@
       "RelativeMoniker": "D:0:0:{4AAF5FB6-7A6F-44DD-AA2E-B53BAA392833}|Fiorella\\Fiorella.csproj|solutionrelative:fiorella\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4AAF5FB6-7A6F-44DD-AA2E-B53BAA392833}|Fiorella\\Fiorella.csproj|c:\\users\\ca r221.14\\source\\repos\\fiorella\\fiorella\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4AAF5FB6-7A6F-44DD-AA2E-B53BAA392833}|Fiorella\\Fiorella.csproj|solutionrelative:fiorella\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4AAF5FB6-7A6F-44DD-AA2E-B53BAA392833}|Fiorella\\Fiorella.csproj|c:\\users\\ca r221.14\\source\\repos\\fiorella\\fiorella\\fiorella.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{4AAF5FB6-7A6F-44DD-AA2E-B53BAA392833}|Fiorella\\Fiorella.csproj|solutionrelative:fiorella\\fiorella.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAF5FB6-7A6F-44DD-AA2E-B53BAA392833}|Fiorella\\Fiorella.csproj|c:\\users\\ca r221.14\\source\\repos\\fiorella\\fiorella\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AAF5FB6-7A6F-44DD-AA2E-B53BAA392833}|Fiorella\\Fiorella.csproj|solutionrelative:fiorella\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAF5FB6-7A6F-44DD-AA2E-B53BAA392833}|Fiorella\\Fiorella.csproj|c:\\users\\ca r221.14\\source\\repos\\fiorella\\fiorella\\models\\flowerslider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AAF5FB6-7A6F-44DD-AA2E-B53BAA392833}|Fiorella\\Fiorella.csproj|solutionrelative:fiorella\\models\\flowerslider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAF5FB6-7A6F-44DD-AA2E-B53BAA392833}|Fiorella\\Fiorella.csproj|c:\\users\\ca r221.14\\source\\repos\\fiorella\\fiorella\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AAF5FB6-7A6F-44DD-AA2E-B53BAA392833}|Fiorella\\Fiorella.csproj|solutionrelative:fiorella\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,112 +62,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\Fiorella\\Fiorella\\Program.cs",
-              "RelativeDocumentMoniker": "Fiorella\\Program.cs",
-              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\Fiorella\\Fiorella\\Program.cs",
-              "RelativeToolTip": "Fiorella\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T13:26:09.635Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FlowerSlider.cs",
-              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\Fiorella\\Fiorella\\Models\\FlowerSlider.cs",
-              "RelativeDocumentMoniker": "Fiorella\\Models\\FlowerSlider.cs",
-              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\Fiorella\\Fiorella\\Models\\FlowerSlider.cs",
-              "RelativeToolTip": "Fiorella\\Models\\FlowerSlider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T13:31:51.991Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BaseModel.cs",
-              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\Fiorella\\Fiorella\\Models\\BaseModel.cs",
-              "RelativeDocumentMoniker": "Fiorella\\Models\\BaseModel.cs",
-              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\Fiorella\\Fiorella\\Models\\BaseModel.cs",
-              "RelativeToolTip": "Fiorella\\Models\\BaseModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T13:30:10.877Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\Fiorella\\Fiorella\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Fiorella\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\Fiorella\\Fiorella\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Fiorella\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-07T13:29:16.299Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\Fiorella\\Fiorella\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Fiorella\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\Fiorella\\Fiorella\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Fiorella\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAN0AAAAAAAAAAAAwwOsAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-07T13:28:41.509Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\Fiorella\\Fiorella\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Fiorella\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\Fiorella\\Fiorella\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Fiorella\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-07T13:26:47.803Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\Fiorella\\Fiorella\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Fiorella\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\Fiorella\\Fiorella\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Fiorella\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T13:26:30.759Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Fiorella",
-              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\Fiorella\\Fiorella\\Fiorella.csproj",
-              "RelativeDocumentMoniker": "Fiorella\\Fiorella.csproj",
-              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\Fiorella\\Fiorella\\Fiorella.csproj",
-              "RelativeToolTip": "Fiorella\\Fiorella.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-07T13:22:45.521Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
@@ -175,6 +91,166 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\Fiorella\\Fiorella\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Fiorella\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\Fiorella\\Fiorella\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Fiorella\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T15:12:29.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\Fiorella\\Fiorella\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Fiorella\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\Fiorella\\Fiorella\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Fiorella\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAAAIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T14:47:13.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\Fiorella\\Fiorella\\Areas\\Admin\\Views\\DashBoard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Fiorella\\Areas\\Admin\\Views\\DashBoard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\Fiorella\\Fiorella\\Areas\\Admin\\Views\\DashBoard\\Index.cshtml",
+              "RelativeToolTip": "Fiorella\\Areas\\Admin\\Views\\DashBoard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T14:30:19.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\Fiorella\\Fiorella\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Fiorella\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\Fiorella\\Fiorella\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Fiorella\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:29:25.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\Fiorella\\Fiorella\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Fiorella\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\Fiorella\\Fiorella\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Fiorella\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-07T14:23:01.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\Fiorella\\Fiorella\\Program.cs",
+              "RelativeDocumentMoniker": "Fiorella\\Program.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\Fiorella\\Fiorella\\Program.cs",
+              "RelativeToolTip": "Fiorella\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:26:09.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FlowerSlider.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\Fiorella\\Fiorella\\Models\\FlowerSlider.cs",
+              "RelativeDocumentMoniker": "Fiorella\\Models\\FlowerSlider.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\Fiorella\\Fiorella\\Models\\FlowerSlider.cs",
+              "RelativeToolTip": "Fiorella\\Models\\FlowerSlider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:31:51.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\Fiorella\\Fiorella\\Models\\BaseModel.cs",
+              "RelativeDocumentMoniker": "Fiorella\\Models\\BaseModel.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\Fiorella\\Fiorella\\Models\\BaseModel.cs",
+              "RelativeToolTip": "Fiorella\\Models\\BaseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:30:10.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\Fiorella\\Fiorella\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Fiorella\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\Fiorella\\Fiorella\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Fiorella\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T13:29:16.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\Fiorella\\Fiorella\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Fiorella\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\Fiorella\\Fiorella\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Fiorella\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAN0AAAAAAAAAAAAwwOsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T13:28:41.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\Fiorella\\Fiorella\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Fiorella\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\Fiorella\\Fiorella\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Fiorella\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T13:26:47.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\Fiorella\\Fiorella\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Fiorella\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\Fiorella\\Fiorella\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Fiorella\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:26:30.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Fiorella.csproj",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\Fiorella\\Fiorella\\Fiorella.csproj",
+              "RelativeDocumentMoniker": "Fiorella\\Fiorella.csproj",
+              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\Fiorella\\Fiorella\\Fiorella.csproj",
+              "RelativeToolTip": "Fiorella\\Fiorella.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-07T13:22:45.521Z"
             }
           ]
         },
